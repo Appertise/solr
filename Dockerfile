@@ -19,4 +19,5 @@ COPY entrypoint.sh /
 
 EXPOSE 8983
 
+
 ENTRYPOINT /entrypoint.sh
